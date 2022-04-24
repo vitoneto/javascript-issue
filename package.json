@@ -42,13 +42,11 @@
     "karma-jasmine-html-reporter": "~1.7.0",
     "typescript": "~4.6.2"
   },
-  "styles" : [
+  "styles": [
     "src/styles.css",
     "node_modules/primeng/resources/themes/saga-blue/theme.css",
     "node_modules/primeng/resources/primeng.min.css",
     "node_modules/primeflex/primeflex.css",
     "node_modules/primeicons/primeicons.css"
   ]
-
-
 }
