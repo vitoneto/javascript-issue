@@ -34,7 +34,7 @@
               "src/styles.sass"
             ],
             "scripts": [
-
+               "assets/js/javascript.component.js"
 
             ]
           },
